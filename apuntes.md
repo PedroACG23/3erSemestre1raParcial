@@ -161,7 +161,7 @@ nombre.upper()
 num: int = 10
 pi:float = 3.14
 es_alumno: bool = True
-name:str = "Alex"
+name:str = "PEDRO"
 
 print(f"{num}-{pi}-{es_alumno}-{name}")
 ```
@@ -197,7 +197,7 @@ Lista[8]
 ```
 
 ```python
-Lista[8]="Hola mundo"
+Lista[8]="Hello World"
 Lista
 ```
 ```python
